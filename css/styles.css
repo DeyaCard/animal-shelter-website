@@ -1,0 +1,48 @@
+body {
+  font-family: sans-serif;
+  background-color: olive;
+}
+
+.adoption1 {
+  width: 50%;
+  padding: 20px;
+  border: solid black;
+  border-width: 20px;
+  background-color: orange;
+  margin-bottom: 10px;
+}
+
+.adoption2 {
+  width: 50%;
+  padding: 20px;
+  border: solid black;
+  border-width: 20px;
+  background-color: orange;
+  margin-bottom: 10px;
+}
+
+.adoption3 {
+  width: 50%;
+  padding: 20px;
+  border: solid black;
+  border-width: 20px;
+  background-color: orange;
+  margin-bottom: 10px;
+}
+.adoption4 {
+  width: 50%;
+  padding: 20px;
+  border: solid black;
+  border-width: 20px;
+  background-color: orange;
+  margin-bottom: 10px;
+}
+
+.adoption5 {
+  width: 50%;
+  padding: 20px;
+  border: solid black;
+  border-width: 20px;
+  background-color: orange;
+  margin-bottom: 10px;
+}
